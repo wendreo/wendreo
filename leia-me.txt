@@ -1,0 +1,32 @@
+através do cmd Na pasta Wpattern-mutrack-simple-web instale o 
+bower install e o npm install
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Quando seu projeto esta pronto mas não tem a pasta bower-componentes e o nodes_modules  instale os dois comandos abaixo: 
+
+bower install ** para instalar a pasta bower-componentes **
+npm install   **instala a pasta node_modules**                ""  depois e so digita grunt serve  ""
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+CONFIGURAR O GULP
+passos:
+
+Se restaurar o computador e preciso instalar de novo
+
+npm install gulp -g
+
+npm install gulp --save-dev
+
+npm install gulp-connect --save-dev
+
+npm install gulp-inject --save-dev
+
+
+
+
+Depois que instalar  a pasta node_modules coloque ela dentro da 
+pasta Wpattern-mutrack-simple para importa-la no eclipse
+roda o projeto no eclipse  e depois de um gulp dentro do cmd no caminho
+da pasta Wpattern-mutrack-simple-web 
+
